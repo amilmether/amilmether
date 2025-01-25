@@ -28,7 +28,6 @@
   <a href="https://leetcode.com/amilmether" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amilmether" alt="GitHub Streak" /></a>
 </p>
 
 ---
