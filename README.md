@@ -64,7 +64,6 @@
 - **AWS Certification** (In Progress)
 
 ---
----
 
 ### 📈 GitHub Analytics
 
