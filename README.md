@@ -66,22 +66,17 @@
 ---
 
 ### 🌟 Featured Projects
-- Portfolio: [amilmether.netlify.app](https://amilmether.netlify.app/)
-- [Project 1 Name] - Short description
-- [Project 2 Name] - Short description
+
+<img src="https://raw.githubusercontent.com/amilmether/amilmether/output/snake.svg" alt="Snake animation" />
 
 ---
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amilmether&show_icons=true&theme=radical" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amilmether&theme=radical" /> -->
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilmether&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amilmether&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amilmether&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ---
 
