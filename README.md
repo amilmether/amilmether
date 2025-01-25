@@ -64,11 +64,6 @@
 - **AWS Certification** (In Progress)
 
 ---
-
-### 🌟 Featured Projects
-
-<img src="https://raw.githubusercontent.com/amilmether/amilmether/output/snake.svg" alt="Snake animation" />
-
 ---
 
 ### 📈 GitHub Analytics
