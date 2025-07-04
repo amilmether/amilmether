@@ -13,9 +13,6 @@
 
 
 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/amilmether?theme=dark&font=Alata&ext=heatmap)
-
 <p align="center">
   
   <a href="https://www.buymeacoffee.com/ame7h">
